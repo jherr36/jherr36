@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Solvencia and more
 - 📫 How to reach me jherr36 at bancodebogota dot com dot co
-- 📫 I like read books fo leadership & management
+- 📫 I like read books of leadership & management
 
 <!---
 jherr36/jherr36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
